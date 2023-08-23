@@ -1,5 +1,5 @@
 # Labelbox_review
-Demo: Auto Review for Labelbox document image
+The jupyter notebook file "auto_review.ipynb" is a demo for the Auto Review for Labelbox document image
 
 ## Install the CLIP package.
 CLIP models are available in the python package at [here](https://github.com/openai/CLIP). <br />
